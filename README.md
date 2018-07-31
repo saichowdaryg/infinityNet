@@ -18,3 +18,6 @@ pler 2 stage network without losing out on the accuracy. We
 then add an additional regression network to further boost
 the accuracy and improve the results of Frustum PointNet-
 v2.
+
+Please check out this document for full details about the method:
+https://github.com/saichowdaryg/infinityNet/blob/master/3DObjectDetection.pdf
